@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">TendaVirtual</string>
+    <string name="userName">userName</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="adminName">NomeB Apelido1B Apelido2B</string>
+    <string name="clienteName">NomeA Apelido1A Apelido2A</string>
+    <string name="pedido">Hacer Pedido</string>
+    <string name="exit">Salir</string>
+    <string name="compras_realizadas">Ver compras realizadas</string>
+    <string name="tramite_pedidos">Ver pedidos en trámite</string>
+    <string name="cantidad_producto">cantidad</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="direccion">Introduzca dirección</string>
+    <string name="ciudad">Introduzca ciudad</string>
+    <string name="CP">Introduzca código postal</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="ver_pedidos">Ver pedidos en trámite</string>
+    <string name="ver_compras">Ver compras realizadas</string>
+    <string-array name="categorias">
+        <item>Informática</item>
+        <item>Electrónica</item>
+        <item>Móbiles</item>
+    </string-array>
+    <string-array name="informatica">
+        <item>PC de sobremesa</item>
+        <item>Portátil</item>
+        <item>Monitor</item>
+    </string-array>
+    <string-array name="electronica">
+        <item>Televisión</item>
+        <item>DVD</item>
+    </string-array>
+    <string-array name="movil">
+        <item>Pixel</item>
+        <item>Galaxy</item>
+        <item>Iphone</item>
+        <item>Xiaomi</item>
+    </string-array>
+    <string-array name="cantidad">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
